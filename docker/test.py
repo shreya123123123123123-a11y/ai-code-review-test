@@ -1,0 +1,1 @@
+print("Code executed inside Docker container")
